@@ -1,27 +1,28 @@
-# About me
-I'm Poonyapat Goonmanoon, a Frontend Developer from Thailand 🇹🇭.
+<!--
+  notes for future me ~
+  · all the text on the cards lives in scripts/profile.mjs → edit it, then run:  node scripts/build.mjs
+  · preview everything locally:  node scripts/build.mjs preview  → open preview/index.html
+  · header, status (level/xp) and the skate log are redrawn every day by
+    .github/workflows/daily.yml and published to the `output` branch
+  · project thumbnails are in assets/art/ (400×300 webp)
+-->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/853498285318340638)](https://discord.com/users/853498285318340638)
+<div align="center">
 
-## Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://raw.githubusercontent.com/poomp5/poomp5/output/header.svg" alt="poomp5 — a blue pixel cat on inline skates slaloms between traffic cones on a Bangkok street, while a typewriter cycles: hi, i'm poom / full-stack dev · bkk / next.js & typescript / ceo @ pranakorn group / anyone can innovate" width="100%">
 
-## Frameworks & Library
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<a href="https://poomp5.com"><img src="assets/link-web.svg" alt="Website — poomp5.com" width="24%"></a> <a href="https://www.instagram.com/poonyapat_poom/"><img src="assets/link-instagram.svg" alt="Instagram — @poonyapat_poom" width="24%"></a> <a href="https://linkedin.com/in/poomp5"><img src="assets/link-linkedin.svg" alt="LinkedIn — in/poomp5" width="24%"></a> <a href="https://fastwork.com/user/poonyapat"><img src="assets/link-fastwork.svg" alt="Hire me on Fastwork" width="24%"></a>
 
-## Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
+<img src="https://raw.githubusercontent.com/poomp5/poomp5/output/status.svg" alt="Status — class: full-stack dev and maker · guild: CEO, Pranakorn Group · school: Assumption College Thonburi · level = my age, with an XP bar filling up to my next birthday · inventory: TypeScript, Next.js, React, Python, Vercel, Figma" width="100%">
 
-## Hobbies
-- Slalom Skate
-- Ice Skate
-- Roller Ski
+<a href="https://poomp5.com/#projects"><img src="assets/quests.svg" alt="Quest log — CareMotion: edge-AI Parkinson's screening, Platinum at Coding Thailand 2026 · Doodee Move: LINE bot for public transport, Grand Prize and IIC CUP 2026 · Doodee Future: university admissions prep platform, Gold at SWU Researcher Day · ChickChick: thermal-camera smart farm, winner of the ENVI Mahidol Hackathon" width="100%"></a>
 
-## Passion
-My projects aim to create meaningful impacts for everyone.
+<img src="assets/hobbies.svg" alt="Side quests — slalom skate, ice skate, roller ski" width="49%"> <img src="assets/stats.svg" alt="Save file — 100+ awards and certificates, 15 projects shipped, 5,000+ P5 SHOP customers, 200K+ YouTube views" width="49%">
 
-> Success is not defined by age, but by ideas.
+<img src="https://raw.githubusercontent.com/poomp5/poomp5/output/skatelog.svg" alt="Skate log — my GitHub contributions for the last year, with the cat skating along the top" width="100%">
 
+<img src="assets/footer.svg" alt="Thanks for rolling by — “success is not defined by age, but by ideas.”" width="100%">
 
-## Recently song
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qid3wrnjbzxpkln35sgndby2fq)
+<img src="https://komarev.com/ghpvc/?username=poomp5&label=VISITORS&color=004f9d&style=for-the-badge" alt="Profile visitor count">
+
+</div>

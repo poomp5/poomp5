@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="72" viewBox="0 0 220 72" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">linkedin — in/poomp5</title>
+<desc id="desc">LINKEDIN: in/poomp5</desc>
+<style>
+.mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; }
+.smooth { shape-rendering: geometricPrecision; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><rect x="9" y="9" width="2" height="2" fill="#C4D5EA" opacity=".7"/></pattern></defs>
+<rect class="smooth" x="7" y="9" width="208" height="58" rx="14" fill="#2E5C93"/>
+<rect class="smooth" x="2" y="4" width="208" height="58" rx="14" fill="#F4F8FD" stroke="#0A2446" stroke-width="3"/>
+<rect class="smooth" x="12" y="13" width="40" height="40" rx="10" fill="#DCE8F5" stroke="#0A2446" stroke-width="2"/>
+<path fill="#0A66C2" d="M17 15h30v3h-30zM14 18h36v3h-36zM14 21h6v3h-6zM26 21h24v3h-24zM14 24h36v3h-36zM32 27h3v3h-3zM41 27h9v3h-9zM35 30h6v3h-6zM14 27h6v15h-6zM26 27h3v15h-3zM44 30h6v12h-6zM32 33h9v9h-9zM14 42h36v6h-36zM17 48h30v3h-30z"/><path fill="#FFFFFF" d="M20 21h6v3h-6zM29 27h3v3h-3zM35 27h6v3h-6zM29 30h6v3h-6zM20 27h6v15h-6zM41 30h3v12h-3zM29 33h3v9h-3z"/>
+<path fill="#004F9D" d="M76 16h6v2h-6zM104 16h2v2h-2zM108 16h10v2h-10zM120 16h8v2h-8zM132 16h6v2h-6zM84 16h2v4h-2zM140 16h2v4h-2zM102 18h2v2h-2zM96 16h2v6h-2zM108 18h2v4h-2zM84 20h4v2h-4zM100 20h2v2h-2zM140 20h4v2h-4zM92 16h2v8h-2zM148 16h2v8h-2zM88 22h2v2h-2zM96 22h4v2h-4zM108 22h8v2h-8zM144 22h2v2h-2zM90 24h4v2h-4zM100 24h2v2h-2zM146 24h4v2h-4zM64 16h2v12h-2zM78 18h2v10h-2zM120 18h2v10h-2zM128 18h2v10h-2zM134 18h2v10h-2zM108 24h2v4h-2zM102 26h2v2h-2zM84 22h2v8h-2zM140 22h2v8h-2zM96 24h2v6h-2zM92 26h2v4h-2zM148 26h2v4h-2zM64 28h10v2h-10zM76 28h6v2h-6zM104 28h2v2h-2zM108 28h10v2h-10zM120 28h8v2h-8zM132 28h6v2h-6z"/>
+<text class="mono" x="64" y="47" font-size="14" font-weight="600" fill="#0A2446" text-anchor="start">in/poomp5</text>
+</svg>

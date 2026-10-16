@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="72" viewBox="0 0 220 72" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">website — poomp5.com</title>
+<desc id="desc">WEBSITE: poomp5.com</desc>
+<style>
+.mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; }
+.smooth { shape-rendering: geometricPrecision; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><rect x="9" y="9" width="2" height="2" fill="#C4D5EA" opacity=".7"/></pattern></defs>
+<rect class="smooth" x="7" y="9" width="208" height="58" rx="14" fill="#2E5C93"/>
+<rect class="smooth" x="2" y="4" width="208" height="58" rx="14" fill="#F4F8FD" stroke="#0A2446" stroke-width="3"/>
+<rect class="smooth" x="12" y="13" width="40" height="40" rx="10" fill="#DCE8F5" stroke="#0A2446" stroke-width="2"/>
+<path fill="#0A2446" d="M23 15h18v3h-18zM20 18h3v3h-3zM26 18h3v3h-3zM35 18h3v3h-3zM41 18h3v3h-3zM17 21h3v3h-3zM23 21h3v3h-3zM38 21h3v3h-3zM44 21h3v3h-3zM14 24h36v3h-36zM14 27h3v12h-3zM23 27h3v12h-3zM38 27h3v12h-3zM47 27h3v12h-3zM14 39h36v3h-36zM17 42h3v3h-3zM23 42h3v3h-3zM38 42h3v3h-3zM44 42h3v3h-3zM20 45h3v3h-3zM26 45h3v3h-3zM35 45h3v3h-3zM41 45h3v3h-3zM23 48h18v3h-18z"/>
+<path fill="#004F9D" d="M76 16h10v2h-10zM88 16h8v2h-8zM102 16h8v2h-8zM112 16h6v2h-6zM120 16h10v2h-10zM132 16h10v2h-10zM76 18h2v4h-2zM88 18h2v4h-2zM96 18h2v4h-2zM100 18h2v4h-2zM132 18h2v4h-2zM76 22h8v2h-8zM88 22h8v2h-8zM102 22h6v2h-6zM132 22h8v2h-8zM64 16h2v12h-2zM72 16h2v12h-2zM114 18h2v10h-2zM68 22h2v6h-2zM76 24h2v4h-2zM88 24h2v4h-2zM96 24h2v4h-2zM108 24h2v4h-2zM132 24h2v4h-2zM124 18h2v12h-2zM66 28h2v2h-2zM70 28h2v2h-2zM76 28h10v2h-10zM88 28h8v2h-8zM100 28h8v2h-8zM112 28h6v2h-6zM132 28h10v2h-10z"/>
+<text class="mono" x="64" y="47" font-size="14" font-weight="600" fill="#0A2446" text-anchor="start">poomp5.com</text>
+</svg>
