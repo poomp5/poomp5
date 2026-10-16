@@ -25,4 +25,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=poomp5&label=VISITORS&color=004f9d&style=for-the-badge" alt="Profile visitor count">
 
+<sub>inspired by <a href="https://github.com/p3achii">@p3achii</a> 🍑</sub>
+
 </div>
